@@ -1,0 +1,172 @@
+{
+    "latestEnrollmentData": [
+      {
+        "enrollmentNumber": "2023001",
+        "studentName": "John Doe",
+        "courseName": "Computer Science",
+        "fees": 5000,
+        "enrollmentDate": "2023-09-06"
+      },
+      {
+        "enrollmentNumber": "2023002",
+        "studentName": "Jane Doe",
+        "courseName": "Electrical Engineering",
+        "fees": 5500,
+        "enrollmentDate": "2023-09-05"
+      },
+      {
+        "enrollmentNumber": "2023003",
+        "studentName": "Bob Smith",
+        "courseName": "Mechanical Engineering",
+        "fees": 5200,
+        "enrollmentDate": "2023-09-04"
+      },
+      {
+        "enrollmentNumber": "2023001",
+        "studentName": "John Doe",
+        "courseName": "Computer Science",
+        "fees": 5000,
+        "enrollmentDate": "2023-09-06"
+      },
+      {
+        "enrollmentNumber": "2023002",
+        "studentName": "Jane Doe",
+        "courseName": "Electrical Engineering",
+        "fees": 5500,
+        "enrollmentDate": "2023-09-05"
+      },
+      {
+        "enrollmentNumber": "2023003",
+        "studentName": "Bob Smith",
+        "courseName": "Mechanical Engineering",
+        "fees": 5200,
+        "enrollmentDate": "2023-09-04"
+      },{
+        "enrollmentNumber": "2023001",
+        "studentName": "John Doe",
+        "courseName": "Computer Science",
+        "fees": 5000,
+        "enrollmentDate": "2023-09-06"
+      },
+      {
+        "enrollmentNumber": "2023002",
+        "studentName": "Jane Doe",
+        "courseName": "Electrical Engineering",
+        "fees": 5500,
+        "enrollmentDate": "2023-09-05"
+      },
+      {
+        "enrollmentNumber": "2023003",
+        "studentName": "Bob Smith",
+        "courseName": "Mechanical Engineering",
+        "fees": 5200,
+        "enrollmentDate": "2023-09-04"
+      },{
+        "enrollmentNumber": "2023001",
+        "studentName": "John Doe",
+        "courseName": "Computer Science",
+        "fees": 5000,
+        "enrollmentDate": "2023-09-06"
+      },
+      {
+        "enrollmentNumber": "2023002",
+        "studentName": "Jane Doe",
+        "courseName": "Electrical Engineering",
+        "fees": 5500,
+        "enrollmentDate": "2023-09-05"
+      },
+      {
+        "enrollmentNumber": "2023003",
+        "studentName": "Bob Smith",
+        "courseName": "Mechanical Engineering",
+        "fees": 5200,
+        "enrollmentDate": "2023-09-04"
+      }
+    ],
+
+
+
+    "additionalStudentData": [
+      {
+        "registrationNumber": "R2023001",
+        "firstName": "Alice",
+        "lastName": "Doe",
+        "courseName": "Civil Engineering",
+        "fees": 4800,
+        "registrationDate": "2023-09-08"
+      },
+      {
+        "registrationNumber": "R2023002",
+        "firstName": "Eve",
+        "lastName": "Smith",
+        "courseName": "Chemical Engineering",
+        "fees": 5100,
+        "registrationDate": "2023-09-07"
+      },
+      {
+        "registrationNumber": "R2023001",
+        "firstName": "Alice",
+        "lastName": "Doe",
+        "courseName": "Civil Engineering",
+        "fees": 4800,
+        "registrationDate": "2023-09-08"
+      },
+      {
+        "registrationNumber": "R2023002",
+        "firstName": "Eve",
+        "lastName": "Smith",
+        "courseName": "Chemical Engineering",
+        "fees": 5100,
+        "registrationDate": "2023-09-07"
+      },
+      {
+        "registrationNumber": "R2023001",
+        "firstName": "Alice",
+        "lastName": "Doe",
+        "courseName": "Civil Engineering",
+        "fees": 4800,
+        "registrationDate": "2023-09-08"
+      },
+      {
+        "registrationNumber": "R2023002",
+        "firstName": "Eve",
+        "lastName": "Smith",
+        "courseName": "Chemical Engineering",
+        "fees": 5100,
+        "registrationDate": "2023-09-07"
+      },
+      {
+        "registrationNumber": "R2023001",
+        "firstName": "Alice",
+        "lastName": "Doe",
+        "courseName": "Civil Engineering",
+        "fees": 4800,
+        "registrationDate": "2023-09-08"
+      },
+      {
+        "registrationNumber": "R2023002",
+        "firstName": "Eve",
+        "lastName": "Smith",
+        "courseName": "Chemical Engineering",
+        "fees": 5100,
+        "registrationDate": "2023-09-07"
+      },
+      {
+        "registrationNumber": "R2023001",
+        "firstName": "Alice",
+        "lastName": "Doe",
+        "courseName": "Civil Engineering",
+        "fees": 4800,
+        "registrationDate": "2023-09-08"
+      },
+      {
+        "registrationNumber": "R2023002",
+        "firstName": "Eve",
+        "lastName": "Smith",
+        "courseName": "Chemical Engineering",
+        "fees": 5100,
+        "registrationDate": "2023-09-07"
+      }
+    ]
+  }
+  
